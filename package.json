@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hellosign/hellosign-embedded.git"
+    "url": "git+https://github.com/gubbe-io/hellosign-embedded-ssr.git"
   },
   "keywords": [
     "hellosign",
