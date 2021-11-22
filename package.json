@@ -13,7 +13,7 @@
     "release:beta": "standard-version --prerelease beta",
     "test": "jest src"
   },
-  "repository": "git+https://github.com/gubbe-io/hellosign-embedded-ssr.git",
+  "repository": "git+https://github.com/gubbe-io/hellosign-embedded-ssr-compatibility.git",
   "keywords": [
     "hellosign",
     "embedded",
