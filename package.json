@@ -13,10 +13,7 @@
     "release:beta": "standard-version --prerelease beta",
     "test": "jest src"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gubbe-io/hellosign-embedded-ssr.git"
-  },
+  "repository": "git+https://github.com/gubbe-io/hellosign-embedded-ssr.git",
   "keywords": [
     "hellosign",
     "embedded",
@@ -24,11 +21,7 @@
     "esign",
     "sign"
   ],
-  "author": {
-    "name": "HelloSign",
-    "email": "apisupport@hellosign.com",
-    "url": "https://hellosign.com"
-  },
+  "author": "HelloSign <apisupport@hellosign.com> (https://hellosign.com)",
   "bugs": {
     "url": "https://github.com/hellosign/hellosign-embedded/issues"
   },
@@ -67,5 +60,6 @@
   "files": [
     "umd",
     "index.js"
-  ]
+  ],
+  "private": false
 }
