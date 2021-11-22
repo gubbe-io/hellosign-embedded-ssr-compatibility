@@ -1,6 +1,6 @@
 {
-  "name": "@gubbe-io/hellosign-embedded-ssr",
-  "version": "2.10.0",
+  "name": "@gubbe-io/hellosign-embedded-ssr-compatibility",
+  "version": "0.0.1",
   "description": "Embed HelloSign signature requests and templates from within your web application.",
   "main": "index.js",
   "license": "MIT",
