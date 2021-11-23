@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Embed HelloSign signature requests and templates from within your web application.",
   "main": "index.js",
+  "types": "index.d.ts",
   "license": "MIT",
   "publishConfig": {
     "@gubbe-io:registry": "https://npm.pkg.github.com"
